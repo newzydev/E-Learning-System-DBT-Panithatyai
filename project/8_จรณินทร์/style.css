@@ -1,0 +1,86 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url("anton-luzhkovsky-dOMN0RRh4ng-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.ffsdfsd {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.sadsaasd {
+    width: 100%;
+    height: 160px;
+    background-color: #a0d3ff;
+}
+
+.sadsaasd ul.gfdgfd {
+    height: 100px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sadsaasd ul.dfsfsf {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sadsaasd li {
+    font-size: 1.2rem;
+}
+
+.sadsaasd a {
+    text-decoration: none;
+    width: 100%;
+    height: 60px;
+    padding: 20px;
+    background-color: aliceblue;
+    color: #333;
+    font-weight: 800;
+    transition: .3s;
+}
+
+.sadsaasd a:hover {
+    color: #a0d3ff;
+}
+
+.fdsgdsfs {
+    width: 100%;
+    padding: 35px;
+    background-color: aliceblue;
+    color: #333;
+    border: 15px solid #a0d3ff;
+}
+
+.fdsgdsfs img {
+    border: 15px solid #a0d3ff;
+}
+
+.fdsgdsfs .klgfldfd {
+    text-align: center;
+}
+
+.fdsgdsfs .klgfldfd h1,.fdsgdsfs .klgfldfd p {
+    margin-bottom: 25px;
+}
+
+.klgdklds {
+    width: 100%;
+    height: 100px;
+    background-color: #a0d3ff;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 800;
+}
